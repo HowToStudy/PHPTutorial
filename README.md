@@ -26,7 +26,7 @@ imagegif($im);
 ```
 3. 文件系统: 文件之于数据库，其实是一样的：打开、读写、关闭和存储，目录是一种另类文件，文件传输属于网络范畴
 
-4. 面向对象：OOA、OOD、OOP，类是对事物的抽象，对象是事物的特殊个体(类的实例化)，实现封装、继承和多态。高级语法糖:__set、__get、__call、__sleep、__wakeup、__toString、__autoload，这些在C++中是没有的。 
+4. 面向对象：OOA、OOD、OOP，类是对事物的抽象，对象是事物的特殊个体(类的实例化)，实现封装、继承和多态。高级语法糖:  \_\_set、\_\_get、\_\_call、\_\_sleep、\_\_wakeup、\_\_toString、\_\_autoload等， 这些在C++中是没有的。
 ```
 <?php 
 class Obj {
@@ -48,7 +48,16 @@ $ant = new Obj("Ant");
 // unset($ant);
 ?>
 ```
-
+5. 加密技术: MD5/SHA/DES
+6. MySQL数据库：CRUD、phpMyAdmin
+```
+\> net start mysql
+\> mysql -u root -h 127.0.0.1 -p
+\> Enter password: xxx
+mysql> ...
+mysql> quit;
+\> net stop mysql
+```
 
 ## 学习笔记
 * [第一篇：基础知识abc](01_abc.php)
