@@ -73,8 +73,15 @@ mysql> quit;
  App::run();
  ?>
  ```
-
-
+ * 配置：惯例配置、项目配置、调试配置、分组配置、模块配置、操作(动态)配置，全局存取，conf目录config.php/debug.php等
+ * 控制器：lib\Action\IndexAction.php, 跨模块调用
+ * 模型：
+ * 视图：view+模板(tpl)
+ 
+2. Smarty模板技术
+3. PHP与XML：simplexml
+4. PHP与Ajax技术：XMLHttpRequest
+ 
 ## 学习笔记
 * [第一篇：基础知识abc](01_abc.php)
 
