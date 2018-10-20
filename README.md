@@ -6,6 +6,7 @@ The Ultimate PHP Tutorial.[[编辑]](https://github.com/HowToStudy/PHPTutorial/e
 * [PHP中文](https://www.php.cn/)
 * PHP从入门到精通-明日科技
 * PHP与MySQL程序设计
+* [菜鸟教程-PHP](http://www.runoob.com/php/php-tutorial.html)
 
 ## 二、学习笔记
 * [第一篇：基础知识abc](01_abc.php)
