@@ -14,6 +14,7 @@ The Ultimate PHP Tutorial.[[编辑]](https://github.com/HowToStudy/PHPTutorial/e
 * [第四篇：进阶](04_advanced.php)
 * [第五篇：小试牛刀](05_smalltest.php)
 * [第六篇：大师](06_master.php)
+* [PHP 函数索引](reference.md)
 
 ## 三、简述
 在众多的唱衰PHP的环境下，对《PHP与MySQL程序设计》进行了简单的走读。语言的路演故事虽非跌宕起伏精彩纷呈，却也在当时的环境下引领了Web的潮流。对PHP的发展趋势不予置评，存在即合理，以需求为主抛却杂音杂念。PHP的学习资源很多，但是更多的需要初学者coding+coding+coding。
