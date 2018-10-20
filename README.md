@@ -49,7 +49,7 @@ $ant = new Obj("Ant");
 ?>
 ```
 5. 加密技术: MD5/SHA/DES
-6. MySQL数据库：CRUD、phpMyAdmin
+6. 数据库：MySQL、CRUD、phpMyAdmin、PDO、事务、存储过程
 ```
 \> net start mysql
 \> mysql -u root -h 127.0.0.1 -p
@@ -58,6 +58,22 @@ mysql> ...
 mysql> quit;
 \> net stop mysql
 ```
+
+## 三、进阶
+1. ThinkPHP框架
+ * [官网](http://thinkphp.cn)
+ * 架构：系统目录(common/lang/lib/tpl/mode/vendor)+项目目录(index.php/common/lang/conf/lib/tpl/runtime)
+ ```
+ // 运行如下代码自动生成项目目录
+ <?php
+ define('THINK_PATH', 'ThinkPHP');
+ define('APP_NAME', 'Demo');
+ define('APP_PATH', '.');
+ require('THINK_PATH'."/ThinkPHP.php");
+ App::run();
+ ?>
+ ```
+
 
 ## 学习笔记
 * [第一篇：基础知识abc](01_abc.php)
