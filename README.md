@@ -1,6 +1,8 @@
 # PHPTutorial
 The Ultimate PHP Tutorial.[[编辑]](https://github.com/HowToStudy/PHPTutorial/edit/master/README.md)
 
+本项目为学习PHP的相关笔记和资料，以及相关问题的探讨和研究。在项目[WIKI](https://github.com/HowToStudy/PHPTutorial/wiki)中，收集了一套关于PHP的基础的、系统化的教程。初次接触PHP，请访问[https://github.com/HowToStudy/PHPTutorial/wiki](https://github.com/HowToStudy/PHPTutorial/wiki)了解和学习.
+
 ## 一、资源推荐
 * [官网](http://www.php.net)
 * [PHP中文](https://www.php.cn/)
