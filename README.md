@@ -84,8 +84,11 @@ mysql> quit;
  
 ## 学习笔记
 * [第一篇：基础知识abc](01_abc.php)
-
-
+* [第二篇：菜鸟](02_rookie.php)
+* [第三篇：入门](03_primer.php)
+* [第四篇：进阶](04_advanced.php)
+* [第五篇：小试牛刀](05_smalltest.php)
+* [第六篇：大师](06_master.php)
 
 ## 资源推荐
 * [PHP中文](https://www.php.cn/)
